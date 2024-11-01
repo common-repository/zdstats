@@ -1,0 +1,440 @@
+#zd.wp.zdstatistics.class.php line:159
+msgid "Statistics"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:160
+msgid "Overview"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:161
+msgid "Daily Stats"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:164
+msgid "Referers"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:165
+msgid "Keywords"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:166
+msgid "Geolocalisation"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:167
+msgid "Technologies"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:168
+msgid "Top Ten"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:169
+msgid "Performances"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:170
+msgid "Search"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:173
+msgid "Options"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:199
+msgid "Options updated"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:207
+msgid "Exclude users with level greater than"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:209
+msgid "Do not filter on user level"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:210
+msgid "Subscriber"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:211
+msgid "Contributor"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:212
+msgid "Author"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:213
+msgid "Editor"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:214
+msgid "Administrator"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:220
+msgid "Optionnal Tabs to display"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:226
+msgid "Top ten"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:233
+msgid "Automatic Update and Analysis"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:236
+msgid "Checking this box will enable auto analysis of incoming statistics, it may degrade performances but will make stats realtime"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:239
+msgid "Separate Feeds"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:242
+msgid "Checking this box will enable feed tracking separatly, therefore not showing feeds in standard pageviews"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:245
+msgid "Record bots"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:248
+msgid "Checking this box will enable bot tracking, it will increase your database size a lot, be carefull using this option."
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:251
+msgid "Your IP BlackList"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:254
+msgid "These are IP of known bots/spammers, IP can be described using regular expressions, such as 127.0.*.?<br />Syntax : IPs separated by commas."
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:257
+msgid "Bots UserAgents"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:260
+msgid "This describe useragent strings that are known from bots<br />Syntax : part_of_the_useragent_string => Bot_Description"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:263
+msgid "Google Maps API Key"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:265
+msgid "This is used for Geolocalisation, you can get one here <a href=\"http://code.google.com/apis/maps/signup.html\" target=\"_blank\">Google Maps API Key</a>"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:268
+msgid "Update options"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:274
+msgid "Re-process statistics"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:341
+msgid "Day"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:342
+msgid "Visitors"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:343
+msgid "Pages viewed"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:345
+msgid "General Overview from %s to %s"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:366
+msgid "Total"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:370
+msgid "Nothing found for this period"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:403
+msgid "Hour"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:407
+msgid "Daily Stats for "
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:442
+msgid "Details for (%s)"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:449
+msgid "IP"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:472
+msgid "Details for visit"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:489
+msgid "Date &amp; Time"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:490
+msgid "IP Adress"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:491
+msgid "Hostname"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:493
+msgid "Page viewed"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:494
+msgid "Referer"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:495
+msgid "Browser"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:496
+msgid "Operating System"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:497
+msgid "User agent"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:498
+msgid "Seconds to load"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:499
+msgid "View all comments written from this IP"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:511
+msgid "Details for IP (%s)"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:543
+msgid "General information"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:544
+msgid "Delete all pageviews for this IP/period"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:577
+msgid "Incoming Referers"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:585
+msgid "View Referring Domains"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:586
+msgid "View Full Referers"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:600
+msgid "Number of pageviews"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:626
+msgid "Details for Referers"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:717
+msgid "Details for Keyword (%s)"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:760
+msgid "Visits for %s"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:804
+msgid "GeoLiteCity.dat not found, feature is disabled"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:838
+msgid "Count"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:882
+msgid "Pages"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:928
+msgid "Visits"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:930
+msgid "Browser stats From %s To %s "
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:938
+msgid "OS"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:941
+msgid "Operating Systems From %s To %s "
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:959
+msgid "Total \"Unique\" Visitors"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:998
+msgid "SQL Queries"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:999
+msgid "Time to load page"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:1001
+msgid "Performances from %s to %s"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:1009
+msgid "Average time to load page"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:1090
+msgid "Previous period"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:1092
+msgid "From :"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:1093
+msgid "To :"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:1096
+msgid "Go"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:1097
+msgid "Next period"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:1204
+msgid "Locations with only one page viewed are not displayed"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:1205
+msgid "<strong>Warning</strong> : Map  loading time may be long due to the amount of points to draw"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:1362
+msgid "URL Like"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:1363
+msgid "Referer Like"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:1364
+msgid "User Agent Like"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:1365
+msgid "IP Like"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:1366
+msgid "Hit type"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:1367
+msgid "Real users"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:1368
+msgid "Search Engine"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:1369
+msgid "Feed views"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:1370
+msgid "Not processed yet"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:1372
+msgid "Note : All parameters are cumulated"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:1406
+msgid "Nothing found for these criterias"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:1415
+msgid "Export as CSV"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:1432
+msgid "File exported successfully (%s lines returned)"
+msgstr ""
+
+#zd.wp.zdstatistics.class.php line:1433
+msgid "Download this export"
+msgstr ""
+
+msgid "Referring Site"
+msgstr ""
+
+msgid "Engine Name"
+msgstr ""
+
+msgid "Keyword"
+msgstr ""
+
+msgid "Country"
+msgstr ""
+
+msgid "City"
+msgstr ""
+
+msgid "Percentage"
+msgstr ""
+
+msgid "Browser name"
+msgstr ""
+
+msgid "#Rank"
+msgstr ""
+
+msgid "Average SQL Queries"
+msgstr ""
+
+msgid "Outgoing Links"
+msgstr ""
+
+msgid "Came from"
+msgstr ""
+
+msgid "Spam Blocklist Server"
+msgstr ""
+
+msgid "This is used for spam detection"
+msgstr ""
+
+msgid "Show navigation summary"
+msgstr ""
+
+msgid "Navigation summary"
+msgstr ""

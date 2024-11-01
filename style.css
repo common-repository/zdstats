@@ -1,0 +1,12 @@
+#zdstats table.widefat tr td { margin: 0px; padding: 0px 10px;}
+#zdstats table.widefat tr th { background: #E4F2FD;}
+#zdstats table.widefat tr.footer { background: #464646; color: #FFF;}
+#zdstats table.widefat tr.footer td { padding: 10px}
+#zdstats table.details { border-collapse: collapse; width: 100%;}
+#zdstats table.details tr td { border: 1px solid #E4F2FD;margin: 0px; padding: 10px 10px; font-size: 10pt;font-family: Verdana;}
+#zdstats table.details tr td.first { width: 200px; font-weight: bold; background: #E4F2FD;}
+
+#zdstats form p label { float:left; width: 150px;}
+#zdstats form p input { width: 300px;}
+#zdstats form p input[type=submit] { width: auto;}
+#zdstats #map_div { width: 100%; height: 350px; margin-bottom: 10px;}
